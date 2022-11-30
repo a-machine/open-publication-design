@@ -1,2 +1,3 @@
-# Open Multi-Format Design
+# Open Publication Design
 
+(OPD)
