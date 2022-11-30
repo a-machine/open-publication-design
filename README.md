@@ -1,6 +1,4 @@
-# Open Publication Design
-
-(OPD)
+# Open Publication Design (OPD)
 
 - Resources for multi-format publication design
 
@@ -12,4 +10,4 @@ Covering the use of:
   - Computational Publication design with Quarto
   - Git based publishing workflows
   
-  
+See the Wiki for instructions: https://github.com/a-machine/opd/wiki  
