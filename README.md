@@ -1,6 +1,6 @@
 # Open Publication Design (OPD)
 
-- Resources for multi-format publication design
+Resources for multi-format publication design
 
 Covering the use of:
 
