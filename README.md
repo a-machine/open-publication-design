@@ -10,4 +10,4 @@ Covering the use of:
   - Computational Publication design with Quarto
   - Git based publishing workflows
   
-See the Wiki for instructions: https://github.com/a-machine/opd/wiki  
+See the Wiki for documentationn and instructions: https://github.com/a-machine/opd/wiki  
