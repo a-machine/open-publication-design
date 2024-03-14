@@ -144,6 +144,12 @@
       @top-left {content: normal;}
       @top-right {content: normal;}
     }
+
+  /*Blank page*/ 
+
+  @page:nth(6) {
+      background: blue;
+    }  
   
   /*HTML basics*/ 
   
