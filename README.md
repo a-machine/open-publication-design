@@ -14,7 +14,11 @@ See the Wiki for documentationn and instructions: https://github.com/a-machine/o
 
 ## Examples
 
-### Page style change by using page number counter: Use :nth()
+### Ways to change Page Styles
+
+ - https://github.com/a-machine/open-publication-design/issues/2
+
+#### Page style change by using page number counter: Use :nth()
 
 W3C guidance: Selecting Pages - https://www.w3.org/TR/css-gcpm-3/#the-first-page-pseudo-element
 
