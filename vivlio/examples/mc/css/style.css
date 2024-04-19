@@ -3,4 +3,13 @@
 @page {
   size: A4; 
   margin: 10mm;
+  columns: 2;
+  column-gap: 1rem;
+  background: blue;
 }
+
+body {
+  columns: 2;
+  column-gap: 1rem;
+}
+
