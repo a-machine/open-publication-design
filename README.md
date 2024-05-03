@@ -14,9 +14,7 @@ See the Wiki for documentationn and instructions: https://github.com/a-machine/o
 
 ## Examples
 
-### Ways to change Page Styles
-
- - https://github.com/a-machine/open-publication-design/issues/2
+### Ways to change Page Styles - Issue; https://github.com/a-machine/open-publication-design/issues/2
 
 #### Page style change by using page number counter: Use :nth()
 
