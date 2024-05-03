@@ -32,7 +32,7 @@ Sample CSS:
   
 `}`
 
-### Multi-column - Issue:  
+### Multi-column - Issue:  https://github.com/a-machine/open-publication-design/issues/3
 
 
 ### References and notes - Issue:  
